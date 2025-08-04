@@ -1,0 +1,14 @@
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\bin\Debug\net9.0\Worker.exe
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\bin\Debug\net9.0\Worker.deps.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\bin\Debug\net9.0\Worker.runtimeconfig.json
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\bin\Debug\net9.0\Worker.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\bin\Debug\net9.0\Worker.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\refint\Worker.dll
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.pdb
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\Worker.genruntimeconfig.cache
+C:\Users\gamer\OneDrive\Documentos\Curso C# POO UDEMY\Exercicios\Seção 8\ExercicioAula100\Worker\Worker\obj\Debug\net9.0\ref\Worker.dll
